@@ -1,0 +1,8 @@
+node_modules/
+
+#Exclude tsc generated files
+dist/
+
+example/test-report.xml
+
+.env
